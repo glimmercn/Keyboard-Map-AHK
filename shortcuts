@@ -1,0 +1,11 @@
+#t:: 
+  Send, /wv/retsraf/regtests/calibre/mbsraf_v2/hier/
+Return
+
+^!i::
+  Send, /wv/retsraf/regtests/calibre/mbsraf_v2/hier/include/
+Return
+
+^!g::
+  Send, huangkandiy@gmail.com
+Return
